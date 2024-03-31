@@ -1,6 +1,6 @@
 # Github User App
 
-Submission Project Dicoding Fundamental Android
+Submission Project Dicoding Fundamental Android (Navigation and API)
 #### Features :
 
  - Recycler View
